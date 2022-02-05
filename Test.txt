@@ -1,3 +1,4 @@
 Hi from Clone!
 Hi from clone-branch!
 My team mate`s code!
+Another sdet added some code.
