@@ -12,3 +12,6 @@ I add a new Test Case
 Lets see changes before merge them after git fetch
 I add a new Test case for Regression
 I add a new Test case for Smoke
+Some new test cases added by SDET
+Lets see changes before merge them after git fetch
+Some another test cases added by QAs
