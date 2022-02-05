@@ -6,3 +6,6 @@ This is another commit
 More work done.
 My team mate`s code!
 Another sdet added some code.
+I added some codes
+Added another codes
+Added another some codes by QAs
