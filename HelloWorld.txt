@@ -3,3 +3,6 @@ Working on test-branch - improved!
 This is important part
 Working an a test case
 Resolve conflict
+Learning how git fetch and git pull work
+Git fetch just fetches the changes
+Git pull = git fetch + git merge
