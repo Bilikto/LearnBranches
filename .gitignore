@@ -1,1 +1,6 @@
 .idea/
+.properties
+!logs/notes.txt
+
+
+
